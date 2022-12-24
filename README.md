@@ -1,2 +1,2 @@
-# EARLY-DETECTION-AND-PREVENTING-TOPPLING-OF-TRUCKS-
-Our designed prototype would save the truck driver's life as well us preventing accidents while turning over bends, detects overloading of goods in trucks, intimates rash driving of trucks to owners.
+# EARLY-DETECTION-AND-PREVENTING-TOPPLING-OF-TRUCKS
+This helps largely in shared logistics industry for safeguard the life of driver and reduce the time of attending to accident spot if they are not responded or stopped in the middle of journey.
